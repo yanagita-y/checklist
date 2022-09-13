@@ -47,6 +47,11 @@ const routes = [
     component: () => import('../views/ListInvoiceView.vue')
   },
   {
+    path: '/task/',
+    name: 'task',
+    component: () => import('../views/TaskView.vue')
+  },
+  {
     path: '/about',
     name: 'about',
     // route level code-splitting

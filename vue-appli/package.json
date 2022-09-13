@@ -13,6 +13,7 @@
     "core-js": "^3.8.3",
     "crypto-browserify": "^3.12.0",
     "firebase": "^9.9.2",
+    "he-tree-vue": "^3.0.3",
     "https-browserify": "^1.0.0",
     "nodemailer": "^6.7.8",
     "os-browserify": "^0.3.0",
